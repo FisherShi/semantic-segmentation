@@ -2,6 +2,8 @@
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
+![3-figure3-1](https://user-images.githubusercontent.com/11842883/30441120-79d8aff8-9946-11e7-98b1-2d87121cee6e.png)
+
 ### Setup
 ##### Frameworks and Packages
 Make sure you have the following is installed:
